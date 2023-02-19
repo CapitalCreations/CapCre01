@@ -1,0 +1,9 @@
+/* Style Sheet */
+
+/* For now this is a placeholder but should be a valid block of code */
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
